@@ -226,8 +226,8 @@ INSERT INTO R_PART
 	VALUES ("953fb4e1-d31d-41bf-a989-7c28bf4f6693",
 	"45e9aa59-143b-4ec6-a494-98083fdfaa35",
 	"21983d5e-1ebb-4edf-9692-26ad03949f26",
-	0,
-	0,
+	1,
+	1,
 	'');
 INSERT INTO R_RTO
 	VALUES ("953fb4e1-d31d-41bf-a989-7c28bf4f6693",
